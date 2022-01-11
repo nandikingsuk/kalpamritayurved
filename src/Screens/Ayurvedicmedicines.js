@@ -491,6 +491,876 @@ const Ayurvedicmedicines = () => {
                         </div>
                     </div>
                     {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/57.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">FLUCURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/61.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">FLUCURA KWATH</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">100 gm</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/71.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">FLUCURA CAPSULE</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 cap</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/75.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">EPI CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/76.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">ASMA CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/89.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">OUCHARTHO</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/91.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">OUCHARTHO CAPSULE</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 cap</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/93.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">HEARTBEAT CAPSULE</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 cap</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/106.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">KNEEGEN</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/112.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">ACIDO CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/121.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">VERTI CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/123.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">SKIN CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/136.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">FIBRO CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/135.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">LIVO CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/139.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">THYRO CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/146.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">LEUCO CARE</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/162.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">LUMP CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/163.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">KIDNEY CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/216.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">LEUCO FIGHT</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">60 cap</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/247.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">ASHWAGANDHA CAP</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 cap</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/264.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">NASYA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">10 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/275.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">PSORACURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/276.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">PSORACURA OINTMENT</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">20 gm</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/287.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">OUCHARTHO FORMULA 1</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/289.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">NEURO CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/301.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">STRESS CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 cap</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/313.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">ERAND TAIL</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/319.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">SCIATI CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/323.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">PROSTO CURA</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
+                    {/* product start here */}
+                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                        <div className="card">
+                            <img
+                            src="/Assets/img/products/324.jpg"
+                            className="card-img-top lazyload"
+                            alt="clear-tox"
+                            />
+                            <div className="card-body">
+                            <div className="d-flex justify-content-between mb-3">
+                                <h5 className="mb-0">HEIGHT GROW</h5>
+                            </div>
+                            <div className="d-flex justify-content-between mb-2">
+                                <p className="text-muted mb-0">UOM: <span className="fw-bold">30 ml</span></p>
+                                <div className="ms-auto text-warning">
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarSFill/>
+                                <RiStarHalfSLine/>
+                                </div>
+                            </div>
+                            <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
+                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    {/* product end here */}
                 </div>
                 </div>
             </section>

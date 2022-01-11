@@ -171,42 +171,42 @@ const Home = () => {
                 <p className="text-white text-center my-4"><h5>Our recognitions</h5></p>
                 <div className="row row-cols-1 row-cols-md-6 g-4 mx-2 bg-transparent text-dark">
                     <div className="col my-4">
-                        <a href="/co-founders.html" className="text-decoration-none link-dark">
+                        <a href="./Assets/img/recognitions/kapl_halal.jpg" className="text-decoration-none link-dark">
                         <div className="card p-3 bg-body rounded text-center border-0">
                             <img src="./Assets/img/recognitions/halal_logo.png" className="mx-auto" height="150" width="150" alt="dr-sudesh-kumar"/>
                         </div>
                         </a>
                     </div>
                     <div className="col my-4">
-                        <a href="/co-founders.html" className="text-decoration-none link-dark">
+                        <a href="./Assets/img/recognitions/kapl_iso.jpg" className="text-decoration-none link-dark">
                         <div className="card p-3 bg-body rounded text-center border-0">
                             <img src="./Assets/img/recognitions/iso_logo.png" className="mx-auto" height="150" width="150" alt="dr-sudesh-kumar"/>
                         </div>
                         </a>
                     </div>
                     <div className="col my-4">
-                        <a href="/co-founders.html" className="text-decoration-none link-dark">
+                        <a href="./Assets/img/recognitions/kmpl_haccp.jpg" className="text-decoration-none link-dark">
                         <div className="card p-3 bg-body rounded text-center border-0">
                             <img src="./Assets/img/recognitions/haccp_logo.png" className="mx-auto" height="150" width="150" alt="mr-satyapal-yadav"/>
                         </div>
                         </a>
                     </div>
                     <div className="col my-4">
-                        <a href="/co-founders.html" className="text-decoration-none link-dark">
+                        <a href="./Assets/img/recognitions/kapl_fssai.pdf" className="text-decoration-none link-dark">
                         <div className="card p-3 bg-body rounded text-center border-0">
                             <img src="./Assets/img/recognitions/fssai.png" className="mx-auto" height="150" width="150" alt="mr-satyapal-yadav"/>
                         </div>
                         </a>
                     </div>
                     <div className="col my-4">
-                        <a href="/co-founders.html" className="text-decoration-none link-dark">
+                        <a href="#" className="text-decoration-none link-dark">
                         <div className="card p-3 bg-body rounded text-center border-0">
                             <img src="./Assets/img/recognitions/gmp_logo.png" className="mx-auto" height="150" width="150" alt="mr-satyapal-yadav"/>
                         </div>
                         </a>
                     </div>
                     <div className="col my-4">
-                        <a href="/co-founders.html" className="text-decoration-none link-dark">
+                        <a href="./Assets/img/recognitions/kapl_apeda.pdf" className="text-decoration-none link-dark">
                         <div className="card p-3 bg-body rounded text-center border-0">
                             <img src="./Assets/img/recognitions/apeda_logo.png" className="mx-auto" height="150" width="150" alt="mr-satyapal-yadav"/>
                         </div>

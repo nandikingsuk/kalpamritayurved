@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Copyright from './Copyright'
+import { AiOutlineFacebook, AiOutlineYoutube } from "react-icons/ai";
 
 const Footer = () => {
     return (
@@ -112,6 +113,12 @@ const Footer = () => {
                     </li>
                     <li>
                         <p className="my-0">Time: 9:00AM - 5:30PM</p>
+                    </li>
+                    <li>
+                        <a className="my-0 text-decoration-none text-white" href="https://www.facebook.com/kalpamritmarketing/" ><AiOutlineFacebook/> Join us in Facebook</a>
+                    </li>
+                    <li>
+                        <a className="my-0 text-decoration-none text-white" href="https://www.youtube.com/channel/UCrREm0y-GD8Xtl96ibQvz6g/" ><AiOutlineYoutube/> Join us in Youtube</a>
                     </li>
                     </ul>
                 </div>
