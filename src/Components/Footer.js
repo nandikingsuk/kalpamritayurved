@@ -105,13 +105,13 @@ const Footer = () => {
                         <a href="https://kalpamrit.net/en/customer/create-ticket/" className="text-decoration-none link-dark text-white">Complaints/Suggestions</a>
                     </li>
                     <li>
-                        <p>Days: Monday - Saturday</p>
+                        <p className="my-0">Days: Monday - Saturday</p>
                     </li>
                     <li>
-                        <p>(except public holidays)</p>
+                        <p className="my-0">(except public holidays)</p>
                     </li>
                     <li>
-                        <p>Time: 9:00AM - 5:30PM</p>
+                        <p className="my-0">Time: 9:00AM - 5:30PM</p>
                     </li>
                     </ul>
                 </div>

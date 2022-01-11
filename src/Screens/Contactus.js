@@ -21,6 +21,20 @@ const Contactus = () => {
                 <li className="breadcrumb-item active" aria-current="page">Contact us</li>
                 </ol>
             </nav>
+            <div className="container text-center">
+                <span className="text-dark"><h5>Contact us</h5></span>
+            </div>
+            <div className="container d-flex justify-content-center">
+                <div className="card m-4 shadow mb-5 bg-body rounded">
+                    <div className="m-3">
+                    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="your email"/>
+                    </div>
+                    <div className="mx-3 mb-3">
+                    <textarea className="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="message"></textarea>
+                    </div>
+                    <a href="#" className="btn btn-primary mx-3 mb-3">Submit</a>
+                </div>
+            </div>
             <Footer/>
         </div>
     )
