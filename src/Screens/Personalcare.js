@@ -260,7 +260,7 @@ const Personalcare = () => {
                     </div>
                     {/* product end here */}
                     {/* product start here */}
-                    <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
+                    {/* <div className="col-md-12 col-lg-3 mb-4 mb-lg-4">
                         <div className="card">
                             <img
                             src="/Assets/img/products/325.jpg"
@@ -282,11 +282,11 @@ const Personalcare = () => {
                                 </div>
                             </div>
                             <div className="d-flex justify-content-between align-items-center pb-2 mb-1">
-                                {/* <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a> */}
+                                <a href="#" className="text-dark fw-bold text-decoration-none">Read more</a>
                             </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* product end here */}
                 </div>
                 </div>
