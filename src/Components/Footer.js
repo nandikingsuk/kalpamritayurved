@@ -2,17 +2,12 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Copyright from './Copyright'
 import { AiOutlineFacebook, AiOutlineYoutube } from "react-icons/ai";
+import Backtotop from './Backtotop';
 
 const Footer = () => {
     return (
         <div>
-            {/* <!-- back to top section start here --> */}
-            <footer className="footer mt-auto py-3 bg-secondary">
-            <div className="container text-center" id="btn-back-to-top">
-                <span className="text-white">Back to top</span>
-            </div>
-            </footer>
-            {/* <!-- back to top section end here --> */}
+            <Backtotop/>
             {/* <!-- footer start here --> */}
             <div className="row row-cols-1 row-cols-md-5 g-0 bg-dark text-white">
             <div className="col">

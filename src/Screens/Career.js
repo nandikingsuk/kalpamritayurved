@@ -32,7 +32,7 @@ const Career = () => {
                     <div className="mx-3 mb-3">
                     <textarea className="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="message"></textarea>
                     </div>
-                    <a href="#" className="btn btn-primary mx-3 mb-3">Submit</a>
+                    <p className="btn btn-primary mx-3 mb-3">Submit</p>
                 </div>
             </div>
             <Footer/>

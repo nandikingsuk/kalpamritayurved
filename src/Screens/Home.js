@@ -199,11 +199,11 @@ const Home = () => {
                         </a>
                     </div>
                     <div className="col my-4">
-                        <a href="#" className="text-decoration-none link-dark">
+                        {/* <a href="#" className="text-decoration-none link-dark"> */}
                         <div className="card p-3 bg-body rounded text-center border-0">
                             <img src="./Assets/img/recognitions/gmp_logo.png" className="mx-auto" height="150" width="150" alt="mr-satyapal-yadav"/>
                         </div>
-                        </a>
+                        {/* </a> */}
                     </div>
                     <div className="col my-4">
                         <a href="./Assets/img/recognitions/kapl_apeda.pdf" className="text-decoration-none link-dark">
