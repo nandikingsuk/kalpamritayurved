@@ -77,52 +77,52 @@ const Home = () => {
                         </div>
                         </a>
                     </div>
-                    <div class="col">
-                        <a href="/health-care.html" class="text-decoration-none link-dark">
-                        <div class="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
-                            <img src="./Assets/img/home_page_card/natural-health-care.jpg" class="card-img" alt="cards-1"/>
-                            <div class="card-img-overlay">
-                            <h5 class="card-title">Natural Health Care</h5>
+                    <div className="col">
+                        <a href="/health-care.html" className="text-decoration-none link-dark">
+                        <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
+                            <img src="./Assets/img/home_page_card/natural-health-care.jpg" className="card-img" alt="cards-1"/>
+                            <div className="card-img-overlay">
+                            <h5 className="card-title">Natural Health Care</h5>
                             </div>
                         </div>
                         </a>
                     </div>
-                    <div class="col">
-                        <a href="/personal-care.html" class="text-decoration-none link-dark">
-                        <div class="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
-                            <img src="./Assets/img/home_page_card/natural-personal-care.jpg" class="card-img" alt="natural-personal-care"/>
-                            <div class="card-img-overlay">
-                            <h5 class="card-title">Natural Personal Care</h5>
+                    <div className="col">
+                        <a href="/personal-care.html" className="text-decoration-none link-dark">
+                        <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
+                            <img src="./Assets/img/home_page_card/natural-personal-care.jpg" className="card-img" alt="natural-personal-care"/>
+                            <div className="card-img-overlay">
+                            <h5 className="card-title">Natural Personal Care</h5>
                             </div>
                         </div>
                         </a>
                     </div>
-                    <div class="col">
-                        <a href="/home-care.html" class="text-decoration-none link-dark">
-                        <div class="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
-                            <img src="./Assets/img/home_page_card/natural-home-care.jpg" class="card-img" alt="natural-home-care"/>
-                            <div class="card-img-overlay">
-                            <h5 class="card-title">Natural Home Care</h5>
+                    <div className="col">
+                        <a href="/home-care.html" className="text-decoration-none link-dark">
+                        <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
+                            <img src="./Assets/img/home_page_card/natural-home-care.jpg" className="card-img" alt="natural-home-care"/>
+                            <div className="card-img-overlay">
+                            <h5 className="card-title">Natural Home Care</h5>
                             </div>
                         </div>
                         </a>
                     </div>
-                    <div class="col">
-                        <a href="/food-products.html" class="text-decoration-none link-dark">
-                        <div class="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
-                            <img src="./Assets/img/home_page_card/natural-food-products.jpg" class="card-img" alt="natural-food-products"/>
-                            <div class="card-img-overlay">
-                            <h5 class="card-title">Food Products</h5>
+                    <div className="col">
+                        <a href="/food-products.html" className="text-decoration-none link-dark">
+                        <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
+                            <img src="./Assets/img/home_page_card/natural-food-products.jpg" className="card-img" alt="natural-food-products"/>
+                            <div className="card-img-overlay">
+                            <h5 className="card-title">Food Products</h5>
                             </div>
                         </div>
                         </a>
                     </div>
-                    <div class="col">
-                        <a href="/organic-agriculture.html" class="text-decoration-none link-dark">
-                        <div class="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
-                            <img src="./Assets/img/home_page_card/organic-agriculture-products.jpg" class="card-img" alt="organic-agriculture-products"/>
-                            <div class="card-img-overlay">
-                            <h5 class="card-title">Organic Agriculture Products</h5>
+                    <div className="col">
+                        <a href="/organic-agriculture.html" className="text-decoration-none link-dark">
+                        <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
+                            <img src="./Assets/img/home_page_card/organic-agriculture-products.jpg" className="card-img" alt="organic-agriculture-products"/>
+                            <div className="card-img-overlay">
+                            <h5 className="card-title">Organic Agriculture Products</h5>
                             </div>
                         </div>
                         </a>

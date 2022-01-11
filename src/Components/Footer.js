@@ -54,7 +54,7 @@ const Footer = () => {
                         <Link to="/faq" className="text-decoration-none link-dark text-white">FAQ</Link>
                     </li>
                     <li>
-                        <Link to="https://kalpamrit.net/en/customer/login" className="text-decoration-none link-dark text-white">Contact us</Link>
+                        <Link to="/contact-us" className="text-decoration-none link-dark text-white">Contact us</Link>
                     </li>
                     <li>
                         <Link to="/site-map" className="text-decoration-none link-dark text-white">Site map</Link>

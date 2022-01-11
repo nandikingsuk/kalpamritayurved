@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Aboutus from './Screens/Aboutus';
 import Ayurvedicmedicines from './Screens/Ayurvedicmedicines';
 import Career from './Screens/Career';
+import Contactus from './Screens/Contactus';
 import Disclaimer from './Screens/Disclaimer';
 import Faq from './Screens/Faq';
 import Foodproducts from './Screens/Foodproducts';
@@ -37,6 +38,7 @@ const App = () => {
         <Route exact path="/home-care" element={<Homecare/>} />
         <Route exact path="/food-products" element={<Foodproducts/>} />
         <Route exact path="/organic-agriculture" element={<Organicagriculture/>} />
+        <Route exact path="/contact-us" element={<Contactus/>} />
       </Routes>
     </Router>
   )
