@@ -3,10 +3,16 @@ import { Link } from 'react-router-dom'
 import { BiChevronRight } from "react-icons/bi";
 import Footer from '../Components/Footer'
 import Header from '../Components/Header'
+import { Helmet } from 'react-helmet';
 
 const Aboutus = () => {
     return (
         <div>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>About us - Kalpamrit Ayurved</title>
+                <link rel="canonical" href="https://kalpamritayurved.com/about-us/" />
+            </Helmet>
             <Header/>
             <div id="carouselExampleFade" className="carousel slide carousel-fade" data-bs-ride="carousel">
                 <div className="carousel-inner">

@@ -1,11 +1,18 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import { BiAdjust, BiAnalyse, BiCustomize, BiLoader } from "react-icons/bi";
+import { Link } from 'react-router-dom';
 import Footer from '../Components/Footer'
 import Header from '../Components/Header'
 
 const Home = () => {
     return (
         <div>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>Kalpamrit Ayurved</title>
+                <link rel="canonical" href="https://kalpamritayurved.com/" />
+            </Helmet>
             <Header/>
             {/* <!-- slider start here --> */}
             <div id="carouselExampleFade" className="carousel slide carousel-fade" data-bs-ride="carousel">
@@ -66,67 +73,67 @@ const Home = () => {
                 </div>
             </div>
             <div className="container my-4">
-                <div class="row row-cols-1 row-cols-md-3 g-2 bg-transparent text-dark">
-                    <div class="col">
-                        <a href="/ayurvedic-medicines.html" class="text-decoration-none link-dark">
-                        <div class="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
-                            <img src="./Assets/img/home_page_card/ayurvedic_medicines.jpg" class="card-img" alt="cards-1"/>
-                            <div class="card-img-overlay">
-                            <h5 class="card-title">Ayurvedic Medicines</h5>
+                <div className="row row-cols-1 row-cols-md-3 g-2 bg-transparent text-dark">
+                    <Link to="/ayurvedic-medicines" className="text-decoration-none link-dark">
+                    <div className="col">
+                        <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
+                            <img src="./Assets/img/home_page_card/ayurvedic_medicines.jpg" className="card-img" alt="cards-1"/>
+                            <div className="card-img-overlay">
+                            <h5 className="card-title">Ayurvedic Medicines</h5>
                             </div>
                         </div>
-                        </a>
                     </div>
+                    </Link>
+                    <Link to="/health-care" className="text-decoration-none link-dark">
                     <div className="col">
-                        <a href="/health-care.html" className="text-decoration-none link-dark">
                         <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
                             <img src="./Assets/img/home_page_card/natural-health-care.jpg" className="card-img" alt="cards-1"/>
                             <div className="card-img-overlay">
                             <h5 className="card-title">Natural Health Care</h5>
                             </div>
                         </div>
-                        </a>
                     </div>
+                    </Link>
+                    <Link to="/personal-care" className="text-decoration-none link-dark">
                     <div className="col">
-                        <a href="/personal-care.html" className="text-decoration-none link-dark">
                         <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
                             <img src="./Assets/img/home_page_card/natural-personal-care.jpg" className="card-img" alt="natural-personal-care"/>
                             <div className="card-img-overlay">
                             <h5 className="card-title">Natural Personal Care</h5>
                             </div>
                         </div>
-                        </a>
                     </div>
+                    </Link>
+                    <Link to="/home-care" className="text-decoration-none link-dark">
                     <div className="col">
-                        <a href="/home-care.html" className="text-decoration-none link-dark">
                         <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
                             <img src="./Assets/img/home_page_card/natural-home-care.jpg" className="card-img" alt="natural-home-care"/>
                             <div className="card-img-overlay">
                             <h5 className="card-title">Natural Home Care</h5>
                             </div>
                         </div>
-                        </a>
                     </div>
+                    </Link>
+                    <Link to="/food-products" className="text-decoration-none link-dark">
                     <div className="col">
-                        <a href="/food-products.html" className="text-decoration-none link-dark">
                         <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
                             <img src="./Assets/img/home_page_card/natural-food-products.jpg" className="card-img" alt="natural-food-products"/>
                             <div className="card-img-overlay">
                             <h5 className="card-title">Food Products</h5>
                             </div>
                         </div>
-                        </a>
                     </div>
+                    </Link>
+                    <Link to="/organic-agriculture" className="text-decoration-none link-dark">
                     <div className="col">
-                        <a href="/organic-agriculture.html" className="text-decoration-none link-dark">
                         <div className="card h-100 shadow-sm p-3 mb-5 bg-body rounded text-center">
                             <img src="./Assets/img/home_page_card/organic-agriculture-products.jpg" className="card-img" alt="organic-agriculture-products"/>
                             <div className="card-img-overlay">
                             <h5 className="card-title">Organic Agriculture Products</h5>
                             </div>
                         </div>
-                        </a>
                     </div>
+                    </Link>
                 </div>
             </div>
             <div className="container text-center mt-auto py-3">
@@ -208,7 +215,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="card text-center border-0">
-                <img src="./Assets/img/other-images/footer-image.jpeg"/>
+                <img src="./Assets/img/other-images/footer-image.jpeg" alt="products"/>
             </div>
             <Footer/>
         </div>

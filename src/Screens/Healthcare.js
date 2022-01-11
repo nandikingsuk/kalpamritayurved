@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet'
 import { BiChevronRight } from 'react-icons/bi'
 import { RiStarHalfSLine, RiStarSFill } from 'react-icons/ri'
 import { Link } from 'react-router-dom'
@@ -8,6 +9,11 @@ import Header from '../Components/Header'
 const Healthcare = () => {
     return (
         <div>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>Health Care - Kalpamrit Ayurved</title>
+                <link rel="canonical" href="https://kalpamritayurved.com/health-care/" />
+            </Helmet>
             <Header/>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb m-3">

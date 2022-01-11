@@ -13,7 +13,7 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                        <a className="navbar-brand" href="#"></a>
+                        <p className="navbar-brand"></p>
                         </li>
                     </ul>
                     <ul className="d-flex navbar-nav">
@@ -24,9 +24,9 @@ const Header = () => {
                         <Link className="nav-link" to="/about-us">About us</Link>
                         </li>
                         <li className="nav-item dropdown">
-                        <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <p className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Products
-                        </a>
+                        </p>
                         <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><Link className="dropdown-item" to="/ayurvedic-medicines">Ayurvedic Medicines</Link></li>
                             <li><Link className="dropdown-item" to="/health-care">Health Care</Link></li>

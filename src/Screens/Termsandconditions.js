@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet'
 import { BiChevronRight } from 'react-icons/bi'
 import { Link } from 'react-router-dom'
 import Footer from '../Components/Footer'
@@ -7,6 +8,11 @@ import Header from '../Components/Header'
 const Termsandconditions = () => {
     return (
         <div>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>Terms &amp; conditions - Kalpamrit Ayurved</title>
+                <link rel="canonical" href="https://kalpamritayurved.com/terms-and-conditions/" />
+            </Helmet>
             <Header/>
             <nav aria-label="breadcrumb">
                 <ol className="breadcrumb m-3">

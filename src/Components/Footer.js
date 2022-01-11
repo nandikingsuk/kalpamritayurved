@@ -18,7 +18,7 @@ const Footer = () => {
                 <div className="card h-100 bg-dark border-0">
                 <div className="card-body">
                     <p><a href="/"><img src="./Assets/logo.svg" height="60" alt="Kalpamrit"/></a></p>
-                    <a>50 Mansi Enclave, Jagjeetpur, Kankhal, Haridwar 249408, Uttarakhand, India</a>
+                    <span>50 Mansi Enclave, Jagjeetpur, Kankhal, Haridwar 249408, Uttarakhand, India</span>
                     <p>CIN U24304DL2016PTC303904</p>
                     <button type="button" className="btn btn-outline-danger"><a href="https://goo.gl/maps/UaZk35YRTgdUQukE7" className="text-decoration-none link-dark text-white">Get directions</a></button>
                 </div>
@@ -105,13 +105,13 @@ const Footer = () => {
                         <a href="https://kalpamrit.net/en/customer/create-ticket/" className="text-decoration-none link-dark text-white">Complaints/Suggestions</a>
                     </li>
                     <li>
-                        <a>Days: Monday - Saturday</a>
+                        <p>Days: Monday - Saturday</p>
                     </li>
                     <li>
-                        <a>(except public holidays)</a>
+                        <p>(except public holidays)</p>
                     </li>
                     <li>
-                        <a>Time: 9:00AM - 5:30PM</a>
+                        <p>Time: 9:00AM - 5:30PM</p>
                     </li>
                     </ul>
                 </div>
